@@ -10,7 +10,7 @@
 
 ### Leídos ✅
 - **Harry Potter y la piedra filosofal** - J.K. Rowling (1997)
-  ![Harry Potter y la piedra filosofal](/imagenes/Harry%20Potter%20y%20la%20piedra%20filosofal.jpg)
+  <img src="/imagenes/Harry Potter y la piedra filosofal.jpg" alt="Harry Potter y la piedra filosofal" width="150">
 
 - **Harry Potter y la cámara secreta** - J.K. Rowling (1998)
   ![Harry Potter y la cámara secreta](/imagenes/Harry%20Potter%20y%20la%20camara%20secreta.jpg)
