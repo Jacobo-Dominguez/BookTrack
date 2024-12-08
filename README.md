@@ -32,4 +32,5 @@ BookTrack es una plataforma que permite a los usuarios:
 ### 📂 `imagenes/`
 - Carpeta donde se almacenan todas las imágenes relacionadas con los usuarios y clubes.
 
+
 ---
