@@ -13,12 +13,12 @@
   <img src="/imagenes/Harry Potter y la piedra filosofal.jpg" alt="Harry Potter y la piedra filosofal" width="150">
 
 - **Harry Potter y la cámara secreta** - J.K. Rowling (1998)
-  ![Harry Potter y la cámara secreta](/imagenes/Harry%20Potter%20y%20la%20camara%20secreta.jpg)
+  <img src="/imagenes/Harry Potter y la camara secreta.jpg" alt="Harry Potter y la camara secreta" width="150">
 
 ### Leyendo 📖
 - **El camino de los reyes** - Brandon Sanderson (2010)
-  ![El camino de los reyes](/imagenes/El%20camino%20de%20los%20reyes.jpg)
-
+  <img src="/imagenes/El camino de los reyes.jpg" alt="El camino de los reyes" width="150">
+  
 ### Pendientes 🕒
 - **La espada del destino** - Andrzej Sapkowski (1992)
-  ![La espada del destino](/imagenes/La%20Espada%20del%20Destino.jpg)
+  <img src="/imagenes/La Espada del Destino.jpg" alt="La Espada del Destino" width="150">
