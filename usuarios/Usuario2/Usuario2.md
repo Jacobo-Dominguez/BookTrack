@@ -1,6 +1,6 @@
-# Perfil de Usuario: Jacobo 📚
+# Perfil de Usuario: Sofía 📚
 
-**Nombre:** Sofia Fernandez Campos
+**Nombre:** Sofía Fernandez Campos
 **Fecha de Registro:** 8 de diciembre de 2024
 **Estado:** Activo
 
@@ -15,7 +15,7 @@
 - **Harry Potter y el cáliz de fuego** - J.K. Rowling (2000)
   <img src="/imagenes/Harry Potter y el caliz de fuego.jpg" alt="Harry Potter y el cáliz de fuego" width="150">
 
-  - **La chica del tren** - Paula Hawkins (2015)
+- **La chica del tren** - Paula Hawkins (2015)
   <img src="/imagenes/la chica del tren.jpg" alt="La chica del tren" width="150">
 
 ### Leyendo 📖
