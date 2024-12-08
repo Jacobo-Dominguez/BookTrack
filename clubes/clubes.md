@@ -5,7 +5,7 @@
 ## Club de Manga 🎌
 <img src="/imagenes/club manga.jpg" alt="Club de manga" width="150">
 
-## Club de Ciencia Fantasia ⭐🦄
+## Club de Fantasia ⭐🦄
 <img src="/imagenes/club fantasia.jpg" alt="Club de Fantasia" width="150">
 
 ## Club de Misterio 🔍
