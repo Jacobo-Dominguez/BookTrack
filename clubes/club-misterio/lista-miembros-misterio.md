@@ -1,3 +1,3 @@
-# Miembros del Club Misterio
+# Miembros del Club Misterio 🔍
 
 - Usuario2 (Sofía)
