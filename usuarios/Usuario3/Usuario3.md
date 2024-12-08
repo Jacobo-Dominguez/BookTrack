@@ -15,6 +15,9 @@
 - **Harry Potter y el misterio del príncipe** - J.K. Rowling (2005)
   <img src="/imagenes/Harry Potter y el misterio del príncipe.jpg" alt="Harry Potter y el misterio del príncipe" width="150">
 
+- **Naruto** - Masashi Kishimoto (1999)
+  <img src="/imagenes/naruto.jpg" alt="Naruto" width="150">
+
 ### Leyendo 📖
 - **Juramentada** - Brandon Sanderson (2017)
   <img src="/imagenes/Juramentada.jpg" alt="Juramentada" width="150">
