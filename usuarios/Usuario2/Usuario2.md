@@ -1,6 +1,6 @@
-# Perfil de Usuario: Jacobo 📚
+# Perfil de Usuario: Sofía 📚
 
-**Nombre:** Sofia Fernandez Campos
+**Nombre:** Sofía Fernandez Campos
 **Fecha de Registro:** 8 de diciembre de 2024
 **Estado:** Activo
 
