@@ -1,4 +1,4 @@
-# Perfil de Usuario: Jacobo 📚
+# Perfil de Usuario: Sergio 📚
 
 **Nombre:** Sergio Bermudez Ramirez
 **Fecha de Registro:** 8 de diciembre de 2024
